@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+// const chalk = require('chalk');
+// console.log(chalk.green('欢迎使用 zqs-cli '));
+require('../src/main.js')
+// require('../src/test/inquirer.js')
+
+// require('../src/test/chalk.js')
+
+// require('../src/test/downLoad.js')
