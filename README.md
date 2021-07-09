@@ -5,8 +5,8 @@
 +  实现可以在命令行中直接运行代码 
 + 实现可以用npm安装 `npm install zqs-cli -g`
 + 根据模板初始化项目 `zqs-cli create <project-name>`
-+ 查看模板库配置 `lee-cli config `
-+ 模板库配置 `lee-cli config set`
++ 查看模板库配置 `zqs-cli config `
++ 模板库配置 `zqs-cli config set`
 
 ### 本项目工具cli已经实现
 
